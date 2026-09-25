@@ -1,0 +1,7 @@
+# Entorno virtual y caché
+venv/
+__pycache__/
+
+# Datasets originales pesados
+futarg.csv
+futarg.xlsx
